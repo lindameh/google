@@ -1,7 +1,7 @@
 a = [1,3,5,6,6,9]
 n = 6
 sum = 11
-result = "N"
+
 def search(a,difference):
     low=0
     high=len(a)-1
